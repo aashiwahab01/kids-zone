@@ -1,0 +1,333 @@
+.head1{
+    position: absolute;
+    margin: 0;
+    margin-left: 30px;
+    color: rgb(3, 3, 3);
+    font-family: 'Fredoka One', cursive;
+}
+.head2{
+    font-size:40px;
+    font-family: 'Fredoka One', cursive;
+    color: black;
+ margin-left: 150px;
+ margin-top: 100px;
+ position: absolute;
+
+
+}
+.head3{
+   margin-left: 900px;
+  margin-top: 120px;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+}
+.head7{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 200px;
+}
+.head8{
+  margin-top: 300px;
+    margin-left: 350px;
+    margin-bottom: 10px;
+    position: absolute;
+}
+.image3{
+    height: 350px;
+    width: 350px;
+    margin-left: 1000px;
+    margin-top: 90px;
+    border-radius: 100%;
+}
+.pic1{
+width: 250px;
+height: 250px;
+}
+.pic2{
+    width: 250px;
+    height: 250px;
+}
+.pic3{
+    width: 250px;
+    height: 250px;
+    margin-left: 30px;
+}
+.head02{
+margin-left: 80px;
+}
+.product1{
+position: absolute;
+margin-left: 300px;
+}
+.product2{
+    position: absolute;
+    margin-left: 600px;
+}
+.product3{
+margin-left: 900px;
+}
+
+.class3{
+    margin-left: 350px;
+    margin-top: 150px;
+}
+.class1{
+    font-size:80px;
+    font-family: 'Fredoka One', cursive;
+    margin-left: 150px;
+    margin-top: 200px;
+    color: rgb(6, 6, 4);
+    position: absolute;
+   
+}
+.class2{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 450px;
+}
+#box1{
+    margin-left: 400px;
+    margin-top: 30px;
+    font-family: 'Fredoka One', cursive;
+   
+}
+#box2{
+    margin-left: 900px;
+    font-family: 'Fredoka One', cursive;
+}
+#box3{
+    width: 300px;
+    height: 350px;
+    background-color:orange;
+    border-radius: 10px;
+    color: azure;
+    position: absolute; 
+    margin-left: 400px;
+    padding-left: 20px;
+    padding-top: 30px;
+
+
+}
+#box4{
+    width: 300px;
+    height: 350px;
+    background-color:orange;
+    border-radius: 10px;
+    color: azure;
+    position: absolute;
+    margin-left: 780px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+#box5{
+    width: 300px;
+    height: 350px;
+    background-color:orange;
+    border-radius: 10px;
+    color: azure;
+    margin-left: 1150px;  
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+
+.a1{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size:x-large;
+    color: rgb(13, 13, 13);
+    font-family: 'Fredoka One', cursive;
+}
+.a2{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: x-large;
+    color: rgb(13, 13, 11);
+    font-family: 'Fredoka One', cursive;
+
+   
+}
+.a1{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size:x-large;
+    color: rgb(8, 8, 6);
+    font-family: 'Fredoka One', cursive;
+
+   
+}
+.a3{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: x-large;
+    color: rgb(19, 19, 16);
+    font-family: 'Fredoka One', cursive;
+    
+}
+.a4{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: x-large;
+    color: rgb(16, 16, 12);
+    font-family: 'Fredoka One', cursive;
+   
+}
+.a5{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: x-large;  
+    color: rgb(21, 21, 15);
+    font-family: 'Fredoka One', cursive;
+
+}
+
+.image1{
+    margin-left: 900px;
+    margin-top: 80px;
+}
+.image2{
+    margin-top: 200px;
+    margin-left: 250px;
+}
+
+.get{
+    margin-left: 150px;
+    margin-top: 30px;
+    background-color:rgb(51, 51, 126) ;
+    color:wheat;
+    border: none;
+    border-radius: 40px;
+    font-size: 30px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.image4{
+margin-left: 500px;
+}
+.head9{
+    margin-left: 500px;
+}
+.shot1{
+    height: 1000px;
+    width: 1500px;
+}
+.shot2{
+    height: 900px;
+    width: 1500px;
+}
+.shot3{
+
+    width: 1600px;
+}
+
+
+.clouds1{
+    width: 1400px;
+    margin-bottom: 10px;
+    margin-left: 130px;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 100px;
+    margin-right: 50px;
+ }
+ .center2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+    .oncloud{
+        margin-top: 6800px;
+        margin-right: 300px;
+        font-family: 'Concert One', cursive;
+        font-size: x-large;
+}
+    
+.oncloud2{
+    margin-top: 3500px;
+    margin-right: 600px;
+    font-family: 'Concert One', cursive;
+    font-size: x-large;
+    margin-left: 80px;
+}
+
+.div1{
+    position: absolute;
+}
+.pic4
+{
+    margin-left: 800px;
+}
+.p1{
+    margin-right: 900px;
+    margin-top: 80px;
+    margin-left: 180px;
+    font-size: large;
+    font-family: 'Concert One', cursive;
+}
+.head01{
+    margin-left: 180px;
+    margin-top: 200px;
+    font-size: xx-large;
+    font-family: 'Concert One', cursive;
+}
+.tr1{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    margin-left: 100px;
+
+}
+.tr2{
+    height:400px;
+    width: 400px;
+    position: absolute;
+    margin-left: 500px;
+}
+.tr3{
+    height: 400px;
+    width: 400px;
+    margin-left: 900px;
+   
+}
+.tr4{
+    height: 400px;
+    width: 400px;
+    margin-left: 300px;
+}
+.tr5{
+    height: 400px;
+    width: 400px;
+    margin-left: 90px;
+}
+.trhead{
+    margin-left: 600px;
+    font-family: 'Concert One', cursive;
+}
+.lasthead{
+position: absolute;
+font-family: 'Concert One', cursive;
+margin-left: 110px;
+margin-top: 200px;
+
+
+}
+.end1{
+    margin-left: 450px;
+    height: 600px;
+    width: 900px;
+    margin-top: 200px;
+}
+.end2{
+    margin-bottom: 400px;
+}
+
